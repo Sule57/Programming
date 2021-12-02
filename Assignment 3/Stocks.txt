@@ -1,0 +1,8 @@
+No | Description | Actual Stock | Maximum Stock | Cost Price | Consumption per Day | Order Duration | Reorder Point | Order Proposal
+100 |  couch C | 31 | 75 | 350 € | 5 | 7 | 37 | 6
+101 |  Stool A | 52 | 150 | 33.95 € | 12 | 3 | 38 | 0
+102 |  cabinet D | 77 | 100 | 160.5 € | 3 | 21 | 65 | 0
+103 |  chair B | 4 | 90 | 175 € | 7 | 8 | 58 | 54
+104 |  table A | 28 | 120 | 99.95 € | 5 | 12 | 62 | 34
+
+The stock value is: 28472.5 €

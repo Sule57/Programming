@@ -1,0 +1,6 @@
+No | Description | Actual Stock | Maximum Stock | Cost Price | Consumption per Day | Order Duration
+100 | couch C | 31 | 75 | 350,00 € | 5 | 7
+101 | Stool A | 52 | 150 | 33,95 € | 12 | 3
+102 | cabinet D | 77 | 100 | 160,50 € | 3 | 21
+103 | chair B | 4 | 90 | 175,00 € | 7 | 8
+104 | table A | 28 | 120 | 99,95 € | 5 | 12
